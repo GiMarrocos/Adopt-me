@@ -5,10 +5,10 @@ Link do protótipo das telas de início feitos no Figma : https://www.figma.com/
 Our furry friends are experts at filling your life with extra doses of cuteness. They have an innate talent for melting hearts and making you smile on the grayest of days. After all, who can resist a cat wrapped up in a blanket or a dog playing happily in the park? 🐾
 
 Até o momento foram utilizados:
-HTML e CSS
-Figma
-Banco de fotos PEXELS
-Link de cursor do cursor.cc
+1.HTML e CSS
+2.Figma
+3.Banco de fotos PEXELS
+4.Link de cursor do cursor.cc
 
 Requisitos do projeto:
 1. Projeto no Figma da pagina inicial e de um formulário (utilizar modelos adaptados ou criar modelo do zero)
